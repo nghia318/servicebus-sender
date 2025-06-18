@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj": {}
+    "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj": {
+    "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
+        "projectUniqueName": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
         "projectName": "ServiceBusSender",
-        "projectPath": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
+        "projectPath": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
         "packagesPath": "C:\\Users\\lee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\obj\\",
+        "outputPath": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

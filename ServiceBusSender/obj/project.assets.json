@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
-      "projectName": "ServiceBusSender",
-      "projectPath": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\ServiceBusSender.csproj",
+      "projectUniqueName": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSenderModule.csproj",
+      "projectName": "ServiceBusSenderModule",
+      "projectPath": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\ServiceBusSenderModule.csproj",
       "packagesPath": "C:\\Users\\lee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lee\\Desktop\\ServiceBusSender\\ServiceBusSender\\obj\\",
+      "outputPath": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusSender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
