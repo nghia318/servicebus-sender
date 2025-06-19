@@ -20,16 +20,15 @@ public class Program
 
             Console.WriteLine("\n--- Sending Messages ---");
 
-            await senderModule.SendStringMessageAsync("hi from vs (string)");
+            // Send json body with Employee class
+            //var employee = new Employee() { FirstName = "Skill", LastName = "Mellon", Salary = 27000 };
+            //await senderModule.SendObjectAsJsonMessageAsync(employee);
 
-            // Employee is now in its own file, but still accessible via the 'using ServiceBusSenderModule;'
-            var employee1 = new Employee() { FirstName = "Skill", LastName = "Mellon", Salary = 27000 };
-            await senderModule.SendObjectAsJsonMessageAsync(employee1);
+            // Send message with message-id, try duplicate detection
+            //await senderModule.SendMessageIdAsync("bts", "30");
 
-            var employee2 = new Employee() { FirstName = "Jane", LastName = "Doe", Salary = 35000 };
-            await senderModule.SendObjectAsJsonMessageAsync(employee2);
+            //await senderModule.SendMessageAsync("This is example");
 
-            await senderModule.SendStringMessageAsync("Another simple message");
 
             Console.WriteLine("\nAll messages sent!");
         }
