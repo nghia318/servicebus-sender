@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF5D3A23-5E75-D26B-BDA1-C8B73972ACFF}|ServiceBusQueueSender\\ServiceBusQueueSender.csproj|c:\\users\\lee\\desktop\\servicebus-quickstart\\servicebussender\\servicebusqueuesender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5D3A23-5E75-D26B-BDA1-C8B73972ACFF}|ServiceBusQueueSender\\ServiceBusQueueSender.csproj|solutionrelative:servicebusqueuesender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF5D3A23-5E75-D26B-BDA1-C8B73972ACFF}|ServiceBusQueueSender\\ServiceBusQueueSender.csproj|c:\\users\\lee\\desktop\\servicebus-quickstart\\servicebussender\\servicebusqueuesender\\servicebusqueuesender.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF5D3A23-5E75-D26B-BDA1-C8B73972ACFF}|ServiceBusQueueSender\\ServiceBusQueueSender.csproj|solutionrelative:servicebusqueuesender\\servicebusqueuesender.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{20482483-0275-4C43-9BA7-F86A94EF4C4A}|SendMessageBatch\\SendMessageBatch.csproj|c:\\users\\lee\\desktop\\servicebus-quickstart\\servicebussender\\sendmessagebatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20482483-0275-4C43-9BA7-F86A94EF4C4A}|SendMessageBatch\\SendMessageBatch.csproj|solutionrelative:sendmessagebatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusQueueSender\\Program.cs",
-              "RelativeDocumentMoniker": "ServiceBusQueueSender\\Program.cs",
-              "ToolTip": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusQueueSender\\Program.cs",
-              "RelativeToolTip": "ServiceBusQueueSender\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\SendMessageBatch\\Program.cs",
+              "RelativeDocumentMoniker": "SendMessageBatch\\Program.cs",
+              "ToolTip": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\SendMessageBatch\\Program.cs",
+              "RelativeToolTip": "SendMessageBatch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T07:42:11.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceBusQueueSender",
-              "DocumentMoniker": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusQueueSender\\ServiceBusQueueSender.csproj",
-              "RelativeDocumentMoniker": "ServiceBusQueueSender\\ServiceBusQueueSender.csproj",
-              "ToolTip": "C:\\Users\\lee\\Desktop\\servicebus-quickstart\\ServiceBusSender\\ServiceBusQueueSender\\ServiceBusQueueSender.csproj",
-              "RelativeToolTip": "ServiceBusQueueSender\\ServiceBusQueueSender.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T07:42:09.762Z",
+              "WhenOpened": "2025-06-23T10:23:08.055Z",
               "EditorCaption": ""
             }
           ]

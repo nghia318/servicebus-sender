@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceBusQueueSender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41120bce4a21f930c2a34aac1ce317e67dee4466")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1268166742a6d7fd7e72a85fa28f7262eb21d05")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceBusQueueSender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceBusQueueSender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
