@@ -2,7 +2,7 @@
 
 public class Program
 {
-    private const string TopicConnectionString = "Endpoint=sb://srvbusstandard.servicebus.windows.net/;SharedAccessKeyName=connection;SharedAccessKey=73jnWHoPwRFGvg+LDEVmo+ey1ur1ZQPRv+ASbFcDV8Y=;EntityPath=firsttopic";
+    private const string TopicConnectionString = "";
     private const string TopicName = "firsttopic";
     private const string SubscriptionName = "filter-subs1";
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 public class Program
 {
     // Service Bus configuration
-    private const string ConnectionString = "Endpoint=sb://srvbusstandard.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Fh5mM7JdPLDzgJ/KuNqtMPMj8O3p/YgSU+ASbLzmXb8="; // Connection string for Service Bus namespace
+    private const string ConnectionString = ""; // Connection string for Service Bus namespace
     private const string TopicName = "firsttopic"; // Name of the Service Bus topic
     private const int BatchSize = 5; // Number of messages to send in the batch
 

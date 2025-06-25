@@ -1,30 +1,4 @@
-﻿//using Azure.Messaging.ServiceBus;
-//using System.Transactions;
-
-//var queue_1 = "queue_1";
-//var queue_2 = "queue_2";
-//var queue_3 = "queue_3";
-
-//var connectionString = "Endpoint=sb://mentossrvbus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=N0iRj0yO0tgdya7BGQPq1pduS0M7wIR3/+ASbGoGQ3k=";
-
-//var client = new ServiceBusClient(connectionString, new ServiceBusClientOptions() { EnableCrossEntityTransactions = true });
-
-//await using var receiverQueue1 = client.CreateReceiver(queue_1);
-//await using var senderQueue2 = client.CreateSender(queue_2);
-//await using var senderQueue3 = client.CreateSender(queue_3);
-
-//var msgReceived = await receiverQueue1.ReceiveMessagesAsync();
-
-////begin transaction
-//using (var transaction = new TransactionScope(TransactionScopeAsyncFlowOption.Enabled))
-//{
-//    await senderQueue2.SendMessageAsync(new ServiceBusMessage(msgReceived.Body.ToString()));
-//    await senderQueue3.SendMessageAsync(new ServiceBusMessage(msgReceived.Body.ToString()));
-//    await receiverQueue1.CompleteMessageAsync(msgReceived);
-//    transaction.Complete();
-//}
-
-using Azure.Messaging.ServiceBus;
+﻿using Azure.Messaging.ServiceBus;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -33,7 +7,7 @@ using System.Transactions; // Still needed for TransactionScope
 public class Program
 {
     // === CONFIGURATION ===
-    private const string ConnectionString = "Endpoint=sb://srvbusstandard.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=Fh5mM7JdPLDzgJ/KuNqtMPMj8O3p/YgSU+ASbLzmXb8=";
+    private const string ConnectionString = "";
     private const string Queue1Name = "queue_1";
     private const string Queue2Name = "queue_2";
     private const string Queue3Name = "queue_3";
